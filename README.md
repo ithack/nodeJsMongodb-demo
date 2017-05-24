@@ -1,5 +1,5 @@
 # nodeJsMongodb-demo
-简单的demo实验，有利于nodejs的入门学习
+简单的demo实验，有利于nodejs的入门学习，之前在手头空闲下来时研究了下node的开发，然后在内部做了个分享会（[node分享](https://ithack.github.io/2017/05/24/Nodejs.html)），顺便就弄了个小demo方便理解和应用node；
 
 ## 本地测试
 * 安装node环境，
